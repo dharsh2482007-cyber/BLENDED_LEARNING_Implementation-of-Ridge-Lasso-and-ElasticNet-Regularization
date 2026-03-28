@@ -111,7 +111,12 @@ ElasticNet - Mean Squared Error:1.33, R² Score: -0.07
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+<img width="834" height="253" alt="Screenshot 2026-03-28 212150" src="https://github.com/user-attachments/assets/205acb8a-773a-462d-b3bf-325f54ee090e" />
+<img width="802" height="148" alt="Screenshot 2026-03-28 212204" src="https://github.com/user-attachments/assets/d9281e25-92f0-4c22-8f02-f9d63f715102" />
+<img width="395" height="127" alt="Screenshot 2026-03-28 212224" src="https://github.com/user-attachments/assets/2a7fcf73-8311-42a1-9a6f-d92a6393a9c8" />
+<img width="503" height="658" alt="Screenshot 2026-03-28 212239" src="https://github.com/user-attachments/assets/4ff5df8a-721c-4edc-9a8b-ca4fe720aef9" />
+<img width="436" height="673" alt="Screenshot 2026-03-28 212249" src="https://github.com/user-attachments/assets/813f7a0b-e4ee-4adb-a9f2-b1168e7097db" />
+
 
 
 ## Result:
